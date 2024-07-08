@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/BaseLib/bin/Debug/net8.0
+/BaseLib/obj
+/BlazexpIO.Utils/bin/Debug/net8.0
+/BlazexpIO.Utils/obj
+/Client/bin/Debug/net8.0
+/Client/obj
+/ClientLib/bin/Debug/net8.0
+/ClientLib/obj
+/Server/bin/Debug/net8.0
+/Server/obj
+/ServerLib/bin/Debug/net8.0
+/ServerLib/obj
